@@ -1,4 +1,4 @@
-//This code is inspired by maxontech
+#This code is inspired by maxontech
 import sys
 import pygame
 import neat
